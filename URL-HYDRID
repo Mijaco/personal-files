@@ -7,8 +7,12 @@ http://www.tutorialesprogramacionya.com/javaya/androidya/androidstudioya/detalle
 
 
 /*COMANDOS*/
-// Abrir en cmd una carpeta
-ionic start  --v2 --template blank
+// run para ios o android
+ionic run ios[android,browser]
+
+// crear un proyecto con plantilla 
+ionic start your_project_name --v2 --template blank
+ionic start your_project_name  --v2 sidemenu
 
 // ubicarse dentro de la carpeta y abrir con un visual code
 ionic serve
