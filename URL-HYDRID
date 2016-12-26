@@ -20,3 +20,9 @@ https://ionicthemes.com/
 
 /*Crear calculadora, inglés con sub*/
 https://www.youtube.com/watch?v=qdeD9rYlBU4&t=34s
+
+
+/*Levantar una app clonada con github*/
+//Con visual code ejecutar:
+ionic serve
+// Si da error es porque no encuentra node_modules, avisa que debemos ejecutar antes : npm install
