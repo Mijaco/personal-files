@@ -1,6 +1,19 @@
 https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2
-https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta 
+https://github.com/dbiele/TypeScript-Cordova-SystemJS-Angular2-beta
 
 /*ANDROID*/
 https://developer.android.com/studio/projects/index.html
 http://www.tutorialesprogramacionya.com/javaya/androidya/androidstudioya/detalleconcepto.php?codigo=1&inicio=0
+
+
+/*COMANDOS*/
+// Abrir en cmd una carpeta
+ionic start  --v2 --template blank
+
+// ubicarse dentro de la carpeta y abrir con un visual code
+ionic serve
+
+/*TEMAS*/
+https://ionicthemes.com/
+
+
