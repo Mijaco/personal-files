@@ -1,0 +1,12 @@
+var jan312009 = new Date(2017, 03, 19);
+alert("jan312009: " + jan312009)
+
+jan312009.setMonth(jan312009.getMonth()-1);
+//var dateMin  = jan312009.setMonth(jan312009.getMonth()-1);
+alert("MAx date: " + jan312009);
+
+var x = 12; //or whatever offset
+var CurrentDate = new Date();
+CurrentDate.setMonth(CurrentDate.getMonth() - 1);
+
+alert("CurrentDate: " + CurrentDate);
